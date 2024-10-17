@@ -1,4 +1,4 @@
-# Nystrom-Method-Python-
+# NystromMethod_Python
 
 Creating through python a method to solve integro-diferential equations
 
